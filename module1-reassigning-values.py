@@ -8,3 +8,21 @@ print(new_age)
 age = 28
 age = age + 7
 print(age)
+
+age = 28
+age += 7
+print(age)
+
+age *= 2
+print(age)
+age -= 5
+print(age)
+age /= 3
+print(age)
+
+text = 'hokas' + 'pokas'
+print(text)
+print('hokus' * 5)
+
+print(23+5)
+print('23'+'5')
