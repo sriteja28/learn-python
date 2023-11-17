@@ -1,7 +1,7 @@
 greeting = 'Hello, friend'
 print(greeting)
 greeting = 'Hi, Everybody'
-print(greeting)
+print('hello' + greeting)
 
 # _correctName
 # correctName

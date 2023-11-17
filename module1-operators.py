@@ -12,7 +12,7 @@ print(7 // 2)
 
 # % modulus division, returns the remainder of the division
 print(6 % 2)
-print(7 % 2)
+print(7 % 4)
 print(11 % 2)
 print(22 % 2)
 
