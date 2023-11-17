@@ -1,1 +1,5 @@
 print('Hello World!')
+print("I'm studing Python")
+print('I\'m studying python')
+print('I\'m studying python','and having fun')
+print('I\'m studying\npython')
